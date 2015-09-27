@@ -8,3 +8,22 @@ Olá, eu sei usar GIT!!!!
  / \
  
 Faça como eu!!!
+
+
+/*********************/
+
+
+Vi seu commit Create 1..2..3 testando. Funcionou. 
+
+Considerações:
+
+1. Tente baixar este meu último commit com o git pull ou em "comandos -> pull".
+
+2. As vezes acontecem alguns conflitos ao baixar quando tanto o 
+repositório remoto quanto o seu local sofrem alterações. Aí você tem que manualmente
+escolher as linhas que serão mantidas e efeutar um novo commit. 
+
+3. No caso do github, para colaborar em projetos os quais você não tem permissão, você deve:
+-> criar um repositório paralelo (fork)
+-> trabalhar nele como se fosse seu.
+-> fazer o pull request - "solicitação de puxagem"
